@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8EFD57D2-BB08-462A-A902-F4ECE4C0952F}|HighScoreLeaderboard_GageMcKenzie\\HighScoreLeaderboard_GageMcKenzie.csproj|c:\\users\\w0526843\\highscoreleaderboard_gagemckenzie\\highscoreleaderboard_gagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EFD57D2-BB08-462A-A902-F4ECE4C0952F}|HighScoreLeaderboard_GageMcKenzie\\HighScoreLeaderboard_GageMcKenzie.csproj|solutionrelative:highscoreleaderboard_gagemckenzie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EFD57D2-BB08-462A-A902-F4ECE4C0952F}|HighScoreLeaderboard_GageMcKenzie\\HighScoreLeaderboard_GageMcKenzie.csproj|c:\\users\\w0526843\\highscoreleaderboard_gagemckenzie\\highscoreleaderboard_gagemckenzie\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EFD57D2-BB08-462A-A902-F4ECE4C0952F}|HighScoreLeaderboard_GageMcKenzie\\HighScoreLeaderboard_GageMcKenzie.csproj|solutionrelative:highscoreleaderboard_gagemckenzie\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\w0526843\\HighScoreLeaderboard_GageMcKenzie\\HighScoreLeaderboard_GageMcKenzie\\data.txt",
+              "RelativeDocumentMoniker": "HighScoreLeaderboard_GageMcKenzie\\data.txt",
+              "ToolTip": "C:\\Users\\w0526843\\HighScoreLeaderboard_GageMcKenzie\\HighScoreLeaderboard_GageMcKenzie\\data.txt",
+              "RelativeToolTip": "HighScoreLeaderboard_GageMcKenzie\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-29T16:30:09.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\w0526843\\HighScoreLeaderboard_GageMcKenzie\\HighScoreLeaderboard_GageMcKenzie\\Program.cs",
               "RelativeDocumentMoniker": "HighScoreLeaderboard_GageMcKenzie\\Program.cs",
               "ToolTip": "C:\\Users\\w0526843\\HighScoreLeaderboard_GageMcKenzie\\HighScoreLeaderboard_GageMcKenzie\\Program.cs",
               "RelativeToolTip": "HighScoreLeaderboard_GageMcKenzie\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T18:49:47.588Z",
               "EditorCaption": ""
