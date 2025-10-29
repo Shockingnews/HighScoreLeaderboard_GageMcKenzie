@@ -27,6 +27,11 @@ namespace HighScoreLeaderboard_GageMcKenzie
             Console.WriteLine("write three initials: ");
 
             userInput = Console.ReadLine();
+            while (userInput.Length != 3)
+            {
+             Console.WriteLine("There isn't three initials try again");
+                userInput = Console.ReadLine();
+            }
             Console.WriteLine("Your score is: " + yourscore);
             data += (yourscore + " " + userInput + ',');
 
